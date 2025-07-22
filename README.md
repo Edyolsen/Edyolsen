@@ -6,3 +6,11 @@ Sou um entusiasta de tecnologia com foco em sistemas embarcados, redes e automa�
 - 🌱 Estou aprofundando meus conhecimentos em **FPGAs (Verilog)** e no sistema **OpenWrt**.
 - 💬 Pergunte-me sobre qualquer coisa relacionada aos meus projetos!
 - 📫 Como me encontrar: 11 958522233
+
+- ### 🔧 Habilidades & Ferramentas
+
+- **Sistemas Embarcados:** C/C++ para Raspberry Pi Pico, MicroPython
+- **Automação Industrial:** Elipse E3 (em formação)
+- **Redes:** OpenWrt, Configuração de Roteadores, DHCP, NAT
+- **Hardware:** Raspberry Pi, Eletrónica Básica
+- **Futuros Interesses:** FPGAs, VHDL/Verilog
